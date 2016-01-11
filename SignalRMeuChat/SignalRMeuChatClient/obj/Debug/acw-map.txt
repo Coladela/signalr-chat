@@ -1,0 +1,4 @@
+SignalRMeuChatClient.MainActivity, SignalRMeuChatClient;md56d08a4411454e2c7c8914897819549a6.MainActivity
+SignalRMeuChatClient.MainActivity, SignalRMeuChatClient, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56d08a4411454e2c7c8914897819549a6.MainActivity
+SignalRMeuChatClient.MainActivity;md56d08a4411454e2c7c8914897819549a6.MainActivity
+signalrmeuchatclient.MainActivity;md56d08a4411454e2c7c8914897819549a6.MainActivity

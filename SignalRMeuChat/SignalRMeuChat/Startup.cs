@@ -13,10 +13,10 @@ namespace SignalRMeuChat
         public void Configuration(IAppBuilder app)
         {
             // Any connection or hub wire up and configuration should go here
-            var aut = new CustomAuthorize();
-            GlobalHost.HubPipeline.AddModule(new AuthorizeModule(aut,aut));
+            //var aut = new CustomAuthorize();
+            //GlobalHost.HubPipeline.AddModule(new AuthorizeModule(aut,aut));
             app.MapSignalR();
-            app.MapSignalR<AuthorizationPersistentConnection>("/Authorization/AuthorizationPersistentConnection");
+            //app.MapSignalR<AuthorizationPersistentConnection>("/Authorization/AuthorizationPersistentConnection");
    
         }
     }

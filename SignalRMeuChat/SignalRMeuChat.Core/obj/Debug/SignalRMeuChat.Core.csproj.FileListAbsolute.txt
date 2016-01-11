@@ -1,0 +1,5 @@
+C:\Study\realtime\signalr\signalr-chat\SignalRMeuChat\SignalRMeuChat.Core\bin\Debug\SignalRMeuChat.Core.dll
+C:\Study\realtime\signalr\signalr-chat\SignalRMeuChat\SignalRMeuChat.Core\bin\Debug\SignalRMeuChat.Core.pdb
+C:\Study\realtime\signalr\signalr-chat\SignalRMeuChat\SignalRMeuChat.Core\obj\Debug\SignalRMeuChat.Core.csprojResolveAssemblyReference.cache
+C:\Study\realtime\signalr\signalr-chat\SignalRMeuChat\SignalRMeuChat.Core\obj\Debug\SignalRMeuChat.Core.dll
+C:\Study\realtime\signalr\signalr-chat\SignalRMeuChat\SignalRMeuChat.Core\obj\Debug\SignalRMeuChat.Core.pdb
